@@ -1,0 +1,3 @@
+/Users/bogdanogorodniy/CLionProjects/SysProgLab02/cmake-build-debug/CMakeFiles/SysProgLab02.dir
+/Users/bogdanogorodniy/CLionProjects/SysProgLab02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bogdanogorodniy/CLionProjects/SysProgLab02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
